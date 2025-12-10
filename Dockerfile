@@ -1,5 +1,5 @@
 # ============================================
-# DX-Ball Vibe Code - Production Dockerfile
+# Brick Breaker Vibe Code - Production Dockerfile
 # Node.js 22.12.0 LTS 기반
 # ============================================
 

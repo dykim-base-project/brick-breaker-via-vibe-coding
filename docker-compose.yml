@@ -1,11 +1,11 @@
 version: '3.8'
 
 services:
-  dx-ball:
+  brick-breaker:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: dx-ball-vibe-code
+    container_name: brick-breaker-vibe-code
     ports:
       - "3000:3000"
     volumes:

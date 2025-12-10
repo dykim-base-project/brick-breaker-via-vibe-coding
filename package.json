@@ -1,7 +1,7 @@
 {
-  "name": "dx-ball-vibe-code",
+  "name": "brick-breaker-vibe-code",
   "version": "0.1.0",
-  "description": "DX-Ball 클론 게임 - Vibe Coding 프로젝트",
+  "description": "Brick Breaker 게임 - Vibe Coding 프로젝트",
   "type": "module",
   "engines": {
     "node": ">=20.0.0"
