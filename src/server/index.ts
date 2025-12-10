@@ -1,5 +1,5 @@
 /**
- * DX-Ball Vibe Code - Express 단일 서버
+ * Brick Breaker - Express 단일 서버
  *
  * 단일 서버로 정적 파일과 API를 함께 서빙합니다.
  * - 정적 파일: dist/client (Vite 빌드 결과)
@@ -43,6 +43,6 @@ app.get('/{*path}', (_req: Request, res: Response) => {
 
 // 서버 시작
 app.listen(PORT, () => {
-  console.log(`[Server] DX-Ball Vibe Code running at http://localhost:${PORT}`);
+  console.log(`[Server] Brick Breaker running at http://localhost:${PORT}`);
   console.log(`[Server] Static files: ${clientPath}`);
 });
