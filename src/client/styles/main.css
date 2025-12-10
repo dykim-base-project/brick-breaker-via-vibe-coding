@@ -1,0 +1,7 @@
+/**
+ * Tailwind CSS v3 진입점
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
